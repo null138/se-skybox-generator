@@ -1,3 +1,5 @@
+**[RU]** [Перейти к описанию на русском | Jump to RU](https://github.com/null138/se-skybox-generator?tab=readme-ov-file#ru)
+
 # [EN]
 ***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799) | [Discord Server](https://discord.gg/SHW82GMrV4)
 
