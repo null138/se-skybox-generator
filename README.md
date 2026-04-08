@@ -17,7 +17,7 @@ Source Engine: Skybox Generator is a tool designed to automate the creation of s
 - Offers customizable texture settings similar to VTFEdit.
 
 # Usage
-- Download the latest release from the Releases section.
+- Download the latest release from the [Releases](https://github.com/null138/se-skybox-generator/releases) section.
 - Make sure to extract the archive to a folder before running the tool.
 - Run the executable.
 - Choose the image you want to convert into a skybox.
@@ -52,7 +52,7 @@ Source Engine: Skybox Generator — это инструмент, предназ�
 - Позволяет настраивать текстуры аналогично VTFEdit.  
 
 # Использование
-- Скачайте последнюю версию из раздела Releases.  
+- Скачайте последнюю версию из раздела [Releases](https://github.com/null138/se-skybox-generator/releases).  
 - Обязательно извлеките архив в папку перед запуском инструмента.  
 - Запустите исполняемый файл.  
 - Выберите изображение, которое хотите конвертировать в скайбокс.  
