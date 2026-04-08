@@ -4,7 +4,7 @@
 # se-skybox-generator
 Source Engine: Skybox Generator is a tool designed to automate the creation of skyboxes for Source Engine games. It streamlines the process by converting panoramic images into cubemaps, slicing them into the six faces of a cube, and generating the necessary VTF and VMT files.
 
-<img src="preview.png" alt="preview" width="600">
+<img src="preview.png" alt="preview" width="700">
 
 # Features
 - Converts images to skybox using Panorama to Cubemap by Lucas Crane (jaxry).
@@ -39,7 +39,7 @@ This project includes or is based on the work of the following authors:
 # se-skybox-generator
 Source Engine: Skybox Generator — это инструмент, предназначенный для автоматизации создания скайбоксов для игр на движке Source. Он упрощает процесс, конвертируя панорамные изображения в кубические карты, разделяя их на шесть граней куба и генерируя необходимые файлы VTF и VMT.
 
-<img src="previewru.png" alt="previewru" width="600">
+<img src="previewru.png" alt="previewru" width="700">
 
 # Возможности
 - Конвертирует изображения в скайбокс с помощью Panorama to Cubemap от Lucas Crane (jaxry).  
