@@ -9,8 +9,6 @@ Source Engine: Skybox Generator is a tool designed to automate the creation of s
 <img src="preview.png" alt="preview" width="700">
 
 # Features
-- Converts images to skybox using Panorama to Cubemap by Lucas Crane (jaxry).
-- Utilizes VTFCmd from VTFLib by (Neil "Jed" Jedrzejewski and Ryan "Nemesis" Gregg) for file conversion.
 - Automatically slices images into six cubemap faces.
 - Provides a real-time preview of the complete skybox.
 - Saves as .vtf and .vmt files.
@@ -44,8 +42,6 @@ Source Engine: Skybox Generator — это инструмент, предназ�
 <img src="previewru.png" alt="previewru" width="700">
 
 # Возможности
-- Конвертирует изображения в скайбокс с помощью Panorama to Cubemap от Lucas Crane (jaxry).  
-- Использует VTFCmd из VTFLib от Neil "Jed" Jedrzejewski и Ryan "Nemesis" Gregg для конвертации файлов.  
 - Автоматически делит изображения на шесть граней куба.  
 - Предоставляет предварительный просмотр полного скайбокса в реальном времени.  
 - Сохраняет файлы в формате .vtf и .vmt.  
