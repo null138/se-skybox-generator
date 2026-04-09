@@ -120,7 +120,7 @@ webview.create_window(
 	html_file,
 	width=1200,
 	height=900,
-	resizable=True,
+	resizable=False,
 	js_api=api
 )
 
