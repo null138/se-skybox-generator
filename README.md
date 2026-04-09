@@ -30,6 +30,10 @@ This project includes or is based on the work of the following authors:
 - Panorama to Cubemap by [Lucas Crane (jaxry)](https://github.com/jaxry) – licensed under GNU Lesser General Public License v3.0 (LGPL-3.0)
 - VTFCmd from VTFLib by Neil "Jed" Jedrzejewski and Ryan "Nemesis" Gregg.
 
+# Notes
+**Python turned out to be really slow for image handling (like ~100× slower than JS), so i moved the image generating logic to JavaScript where it runs much faster.**
+**That JS part is then bridged into Python for 'VTFCmd'. The interface itself is just done in HTML.**
+
 
 # 
 
@@ -62,3 +66,7 @@ Source Engine: Skybox Generator — это инструмент, предназ�
 Проект включает или основан на работе следующих авторов:  
 - Panorama to Cubemap от [Lucas Crane (jaxry)](https://github.com/jaxry) – лицензия GNU Lesser General Public License v3.0 (LGPL-3.0)  
 - VTFCmd из VTFLib от Neil "Jed" Jedrzejewski и Ryan "Nemesis" Gregg  
+
+# Notes
+**Python оказался действительно очень медленным при обработке изображений (примерно в ~100× медленнее, чем JS), поэтому я перенёс логику генерации изображений в JavaScript, где она работает намного быстрее.**
+**Эта JS часть затем связана с Python для 'VTFCmd'. Сам интерфейс сделан на HTML.**
