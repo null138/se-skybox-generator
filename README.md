@@ -4,7 +4,7 @@
 ***Author***: **Madness (null138)** | [Steam Profile](http://steamcommunity.com/profiles/76561198098349799) | [Discord Server](https://discord.gg/SHW82GMrV4)
 
 # se-skybox-generator
-Source Engine: Skybox Generator is a tool designed to automate the creation of skyboxes for Source Engine games. It streamlines the process by converting panoramic images into cubemaps, slicing them into the six faces of a cube, and generating the necessary VTF and VMT files.
+Source Engine: Skybox Generator is a tool designed to automate the creation of skyboxes for Source Engine games. It streamlines the process by converting images into cubemaps, slicing them into the six faces of a cube, and generating the necessary VTF and VMT files.
 
 <img src="preview.png" alt="preview" width="700">
 
